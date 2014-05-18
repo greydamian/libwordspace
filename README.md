@@ -2,3 +2,4 @@ libwordspace
 ============
 
 Wordspace exploration library.
+
