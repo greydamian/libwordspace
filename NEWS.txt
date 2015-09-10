@@ -1,0 +1,16 @@
+libwordspace v1.0.0
+----------------
+* Initial release
+
+TODO
+----
+* Switch from build script to setup script [v2.0.0]
+    * Add build/install/clean commands
+* Refactor function signatures to a more functional style [v2.0.0]
+    * char *getword(const char *chars, unsigned int len, char *word, long idx)
+    * long getindex(const char *chars, unsigned int len, const char *word)
+* Secure programming improvements [v2.0.0]
+* Performance enhancements [v3.0.0]
+* Switch from build/setup script to Makefile [v4.0.0]
+* Add support for multiple character sets [v4.0.0]
+
